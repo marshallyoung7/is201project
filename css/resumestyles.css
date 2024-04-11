@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.airpixelsmediart.com/cdn/shop/products/OceanBeachArtPoster.jpg?v=1629366526');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header, section, footer {
+    margin: 10px;
+    padding: 20px;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+img {
+    box-shadow: 0px 0px 10px 5px white;
+}
+
+iframe{
+    width: 750px;
+    height: 500px;
+}
